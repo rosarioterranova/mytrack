@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mytrack</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_tracklist">Tracklist</string>
+    <string name="title_activity_rilevazione">Rilevazione</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_info">Info</string>
+    <string name="title_activity_graph">Graph</string>
+    <string name="title_activity_prova">Prova</string>
+    <string name="title_activity_mapview">Mapview</string>
+
+</resources>
