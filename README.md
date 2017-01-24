@@ -1,7 +1,7 @@
 ##Description
-MyTrack is an android app for the analysis of the brightness, noise and vibration variance of the device on a given route or path. Thanks to the simple and convenient interface you can start a recording by setting the read data to the passage of a certain amount of seconds; these data are then displayed through the graphics comfortable, with possibility of removal and of vision of the track on a map.
+MyTrack is an android app for the analysis of the brightness, noise and vibration variance of the device on a given route or path. Thanks to the simple and convenient interface you can start a recording by setting the read data to the passage of a certain amount of seconds; these data are then displayed through the graphics, with possibility of see the track on a map.
 
-Tools used
+Tools used:
 - Android Developer Tools Build v22.6.2-1085508
 - Eclipse Java Development Tools v3.9.1
 - Eclipse Platform v4.3.1
