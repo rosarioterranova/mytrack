@@ -14,7 +14,7 @@ Tools used:
 - **Platform**: Windows Phone
 - **Programming language**: C#
 
-##Screenshoot
+##Screenshots
 https://github.com/rosarioterranova/mytrack/tree/master/Screenshots
 
 ##Download apk
