@@ -1,4 +1,4 @@
-##Description
+# Description
 MyTrack is an android app for the analysis of the brightness, noise and vibration variance of the device on a given route or path. Thanks to the simple and convenient interface you can start a recording by setting the read data to the passage of a certain amount of seconds; these data are then displayed through the graphics, with possibility of see the track on a map.
 
 Tools used:
@@ -9,7 +9,7 @@ Tools used:
 - Android 4.4.2 (API 19)
 - GraphView v3.1
 
-##Info
+# Info
 - **Name**: Impossible Tris
 - **Platform**: Windows Phone
 - **Programming language**: C#
