@@ -14,8 +14,8 @@ Tools used:
 - **Platform**: Windows Phone
 - **Programming language**: C#
 
-##Screenshots
+## Screenshots
 https://github.com/rosarioterranova/mytrack/tree/master/Screenshots
 
-##Download apk
+## Download apk
 https://github.com/rosarioterranova/mytrack/raw/master/Build/Mytrack%20v1.0.apk
